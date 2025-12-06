@@ -3,7 +3,7 @@ import read
 import Operation
 import write
 
-bnm,
+
 def initialize_program():
     """Check if product.txt exists, if not create it with sample data"""
     if not os.path.exists("product.txt"):
