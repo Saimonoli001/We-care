@@ -2,7 +2,7 @@ import os
 import read
 import Operation
 import write
-fgh
+
 
 def initialize_program():
     """Check if product.txt exists, if not create it with sample data"""
